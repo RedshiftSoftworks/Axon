@@ -10,7 +10,3 @@ Axon is a protocol for secure file upload and transfer, and chat.
 </div>
 
 
-<h1>Development</h1>
-
-
-Axon uses two different components, `synapse` as a client/receiver and `impulse` for sending connections. 
